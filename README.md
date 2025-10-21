@@ -2,6 +2,34 @@
 
 Welcome to the Fintech and Cryptocurrencies Practical Exam! This exam tests your knowledge of **ERC20 tokens** and **Decentralized Exchanges (DEXs)** using Uniswap V3.
 
+## 📋 Exam Overview
+
+This is a **3-hour practical exam** where you will demonstrate your understanding of blockchain development by implementing smart contracts and interacting with decentralized protocols.
+
+### Total Points: **60**
+
+### Exam Format:
+
+- **Duration:** 3 hours
+- **Type:** Individual, open-documentation (no AI assistants or collaboration)
+- **Submission:** Your private GitHub repository
+- **Requirements:**
+  - All contracts must compile
+  - All tests must pass (`yarn test:local`)
+  - Complete UI demonstration with screenshots
+  - Show your calculations
+
+### Technologies Used:
+
+- Solidity (Smart Contracts)
+- Hardhat (Development Framework)
+- OpenZeppelin (ERC20 Implementation)
+- Uniswap V3 (DEX Protocol)
+- MetaMask (Wallet Integration)
+- Scaffold-ETH 2 (Frontend)
+
+---
+
 ## 📚 What You Need to Study
 
 ### 1. ERC20 Fungible Tokens
