@@ -30,6 +30,17 @@ This is a **3-hour practical exam** where you will demonstrate your understandin
 
 ---
 
+## 📖 Exam Requirements
+
+- **Duration:** 3 hours
+- **Type:** Individual exam
+- **Submission:** Your private repository
+- All TODO items must be completed
+- All tests must pass: `yarn test:local`
+- Academic integrity is strictly enforced
+
+---
+
 ## 📚 What You Need to Study
 
 ### 1. ERC20 Fungible Tokens
@@ -249,17 +260,6 @@ The `LiquidityCustodian.sol` contract solution can be found here: [uniswap-pool-
 3. **Create a liquidity pool and mint liquidity**
 
 This practice will prepare you for the UI demonstration task.
-
----
-
-## 📖 Exam Requirements
-
-- **Duration:** 3 hours
-- **Type:** Individual exam
-- **Submission:** Your private repository
-- All TODO items must be completed
-- All tests must pass: `yarn test:local`
-- Academic integrity is strictly enforced
 
 ---
 
